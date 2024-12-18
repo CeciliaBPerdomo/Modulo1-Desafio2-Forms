@@ -1,4 +1,4 @@
-![Avatar](images/avatar-sinfondo.jpg)
+![Avatar](./images/avatar-sinfondo.jpg)
 # Desafíos Prácticos
 
 ## Desafío práctico 1:
