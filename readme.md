@@ -1,4 +1,5 @@
-![Avatar](./images/avatar-sinfondo.jpg)
+<img src="./images/avatar-sin fondo.png" width="20%">
+
 # Desafíos Prácticos
 
 ## Desafío práctico 1:
