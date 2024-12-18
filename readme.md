@@ -1,4 +1,7 @@
-<img src="./images/avatar-sin fondo.png" width="20%">
+<p align="center">
+   <img src="./images/avatar-sin fondo.png" width="20%">
+   By Cecilia ❤️ Perdomo
+</p>
 
 # Desafíos Prácticos
 

@@ -10,7 +10,15 @@
 <body>
     <div>
         <!-- Navbar -->
+        <header>
+            <nav>
+                <a href="#">Inicio</a>
+                <a href="#">Mi perfil</a>
+                <a href="#">Contacto</a>
+            </nav>
+        </header>
 
+        <hr><br>
         <!-- Informacion de perfil -->
         <div>
             <h3>Mi perfil</h3>
@@ -25,13 +33,42 @@
 
             <p>
                 <b>Acerca de mi: </b>
-                soy una apasionada por el área de la informática, sobre todo por el desarrollo web. Además
+                soy una apasionada por el área de la informática, sobre todo por el<strong> desarrollo web</strong>.
+            </p>
+            <p>Además
                 de que me gusta leer y hacer deportes. En realidad no me gusta hacer deporte, pero tengo que escribir
                 algo para que ocupe lugar, aunque podría usar un lorem ipsum. Gracias por su atención esto es todo.
             </p>
         </div>
 
         <!-- Informacion de contacto -->
+        <form action="" method="post">
+            <h3>Contactate</h3>
+
+            <fieldset>
+                <label for="nombre">Nombre completo: </label>
+                <input type="text" name="nombre" id="nombre" required>
+            </fieldset>
+
+            <fieldset>
+                <label for="mail">Mail: </label>
+                <input type="email" name="mail" id="mail" required>
+            </fieldset>
+
+            <fieldset>
+                <label for="mensaje">Mensaje:</label>
+                <textarea name="mensaje" id="mensaje" required></textarea>
+            </fieldset>
+
+            <button type="submit">Contactate</button>
+        </form>
+
+        <br>
+        <!-- Pie de pagina -->
+        <footer>
+            <hr>
+            <p>By Cecilia ❤️</p>
+        </footer>
     </div>
 </body>
 
